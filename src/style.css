@@ -1,0 +1,24 @@
+#weekday{
+    table-layout: fixed;
+    width: 40px;
+    border: 1px solid black;
+}
+#title{
+    text-align:center;
+    font-style: italic;
+}
+#center{
+    margin: auto;
+    width: 20%;
+}
+#eventDescription{
+    width: 200px;
+    height: 50px;
+}
+
+#eventBox{
+    width: 200px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid black;
+}
